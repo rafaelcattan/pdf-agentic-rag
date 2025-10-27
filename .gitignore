@@ -1,0 +1,27 @@
+﻿# Environment
+.env
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+
+# FAISS index
+*.faiss
+*.pkl
+
+# PDFs (opcional - descomente se não quiser commitar PDFs)
+# *.pdf
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
