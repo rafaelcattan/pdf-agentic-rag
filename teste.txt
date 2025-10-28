@@ -1,0 +1,3 @@
+cd C:\Users\Dell\DocAgent
+.\.venv\Scripts\Activate.ps1
+python agentic_rag.py
